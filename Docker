@@ -1,5 +1,9 @@
 
-from openjdk:11
+from java version 21
 
 from: jdk1.8
 
+
+
+
+ENTRYPOINT ["java","-jar","app.jar" ]
