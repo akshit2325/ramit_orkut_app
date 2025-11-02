@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 from openjdk:11
-=======
+
 from: jdk1.8
->>>>>>> eb281b023b51cf2402281a3d58a53f88ba78579a
+
